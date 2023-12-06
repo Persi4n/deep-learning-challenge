@@ -104,11 +104,6 @@ print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
 6. **What steps did you take in your attempts to increase model performance?**
    - Possible steps could include adjusting the number of neurons, layers, activation functions, or exploring different optimization algorithms.
 
-## Model Summary
-
-The model demonstrated promising results with an accuracy of [accuracy_value] and a loss of [loss_value]. Further optimization and fine-tuning could potentially enhance performance.
-
-
 # AlphabetSoupCharity Neural Network Model Optimization Analysis
 
 ## Overview
