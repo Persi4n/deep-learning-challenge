@@ -104,11 +104,6 @@ print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
 6. **What steps did you take in your attempts to increase model performance?**
    - Possible steps could include adjusting the number of neurons, layers, activation functions, or exploring different optimization algorithms.
 
-# AlphabetSoupCharity Neural Network Model Optimization Analysis
-
-## Overview
-
-The purpose of this analysis is to optimize the neural network model designed for Alphabet Soup's funding selection process. The initial model aimed to predict the success of organizations based on various features in the provided dataset.
 
 ## Optimization Attempts
 
@@ -148,4 +143,3 @@ These results indicate an improvement compared to the initial model. The optimiz
 ## Summary
 
 The optimization attempts yielded a model with improved accuracy and loss metrics. Further refinement can be achieved through ongoing experimentation with model architecture and hyperparameters. Ensemble methods and feature engineering provide promising avenues for future exploration. The goal remains to create a robust and reliable model for Alphabet Soup's funding selection process.
-
